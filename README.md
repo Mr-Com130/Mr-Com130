@@ -1,4 +1,6 @@
-### don't forget to give a star™
+### Selamat mencoba
+
+
 
 <!--
 **Mr-Com130/Mr-Com130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
